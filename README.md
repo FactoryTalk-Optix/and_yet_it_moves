@@ -1,3 +1,3 @@
 # And Yet it Moves
 
-Move UI objects at runtime: sensible area and movable dialog examples
+Move UI elements at runtime: sensible area and movable dialog examples
